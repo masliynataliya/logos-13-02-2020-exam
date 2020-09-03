@@ -25,7 +25,7 @@ public class ExamApplication  {
                 System.out.println("2 - Додати новий девайс");
                 System.out.println("3 - Шукати девайс за серійним номером");
                 System.out.println("4 - Видалити найдорожчий девайс");
-                System.out.println("5 - Замінити бренд у девайсах");
+                System.out.println("5 - Замінити бренд у  девайсах");
                 System.out.println("6 - вивести спиок назв девайсів (тільки назв), які в серійному номері мають цифру 4 і дорожчі за 800");
                 System.out.println("7 - вихід ");
                 System.out.println();
