@@ -7,7 +7,7 @@
 
 Задання
 
-Створити клас Device з полями long serialNumber, String brand, String info, int price. Супутні методи створити за потреби
+Створити клас denysyerchenko.Device з полями long serialNumber, String brand, String info, int price. Супутні методи створити за потреби
 (не повинно бути тих методів, які ви не використовуєте). 
 
 В корені проекту лежить файл DeviceDetails.txt. В цьому текстовомову файлі є дані, написані через кому, - які відповідають
