@@ -1,4 +1,6 @@
-9842520351, Apple, iPhone 11 Max pro, 1182 9939741187, Samsung, Microwave oven 230M, 369 8649874542, Samsung, Galaxy note 333, 350
+9842520351, Apple, iPhone 11 Max pro, 1182
+9939741187, Samsung, Microwave oven 230M, 369
+8649874542, Samsung, Galaxy note 333, 350
 9272368081, LG, Smart TV N140, 659
 9493736531, LG, CoffeeMaker CBVNG-11256, 410
 8998039568, Samsung, Fitnes Tracker S3, 374
